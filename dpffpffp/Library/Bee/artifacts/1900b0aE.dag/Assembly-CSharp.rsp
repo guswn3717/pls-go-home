@@ -322,8 +322,8 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.41f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.41f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.41f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
--r:"C:/Users/rudal/dpffpffp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"C:/Users/rudal/dpffpffp/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"D:/guswn3717/github/Test/gigyeongjunbi/dpffpffp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"D:/guswn3717/github/Test/gigyeongjunbi/dpffpffp/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -354,7 +354,6 @@
 "Assets/Scripts/MainControl.cs"
 "Assets/Scripts/MessageBox.cs"
 "Assets/Scripts/PlayerController.cs"
-"Assets/urmomboy.cs"
 -langversion:9.0
 /deterministic
 /optimize+
