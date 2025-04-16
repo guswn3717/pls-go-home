@@ -50,8 +50,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:32:53.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T07:32:53.413Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MessageBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:19:35.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T07:19:35.053Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MainControl.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAYwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T06:59:37.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T06:59:37.21Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyControl.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAIwDcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:55:52.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:55:52.839Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
               "ViewState": "AgIAABgBAAAAAAAAAAAuwCYBAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:17:22.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:17:22.345Z"
             },
             {
               "$type": "Document",
@@ -115,8 +110,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T05:01:02.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T05:01:02.779Z"
             },
             {
               "$type": "Document",
@@ -124,9 +118,9 @@
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\rudal\\dpffpffp\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\rudal\\dpffpffp\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAIQBAAAAAAAAAAAAAJMBAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\rudal\\dpffpffp\\Assets\\Scripts\\PlayerController.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs*",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAswIoBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T01:16:34.033Z",
               "EditorCaption": ""
